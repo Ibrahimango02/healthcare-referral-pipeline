@@ -1,0 +1,6 @@
+MSH|^~\&|EMR|NORTHSIDE_CLINIC|INTAKE|CITY_IMAGING|20260924101500||REF^I12|REF0001|P|2.5
+RF1|A^Accepted|R^Routine|RAD^Radiology|||REF-20260924-001|20260924
+PRD|RP|Chen^Sarah^^^Dr.|100 Main St^^Toronto^ON^M5V1A1||||1234567893^^^NPI
+PID|1||MRN12345^^^NORTHSIDE_CLINIC^MR||Doe^Jane^A||19800512|F|||45 King St W^^Toronto^ON^M5H1A1||4165550100
+DG1|1||R10.11^Right upper quadrant pain^I10
+NTE|1||Patient reports 3 weeks of intermittent right upper quadrant pain after fatty meals. Please assess for cholelithiasis. Requesting abdominal ultrasound. Routine, no red flags.

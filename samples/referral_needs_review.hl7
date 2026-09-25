@@ -1,0 +1,7 @@
+MSH|^~\&|EMR|EASTEND_FAMILY_MED|INTAKE|CITY_IMAGING|20260924103000||REF^I12|REF0002|P|2.5
+RF1|A^Accepted|R^Routine|RAD^Radiology|||REF-20260924-002|20260924
+PRD|RP|Okafor^David^^^Dr.|22 Queen St E^^Toronto^ON^M5C1R5||||1234567893^^^NPI
+PID|1||MRN67890^^^EASTEND_FAMILY_MED^MR||Singh^Arjun||19521103|M|||9 Bay St^^Toronto^ON^M5J2R8||4165550199
+DG1|1||R51^Headache^I10
+NTE|1||New onset severe headache over 2 days, worst of his life per patient, some confusion this morning.
+NTE|2||Please image head ASAP.

@@ -1,0 +1,15 @@
+# Local infrastructure: Temporal dev server (+ web UI) and a HAPI FHIR server.
+#   docker compose up -d
+#   Temporal UI:  http://localhost:8233
+#   FHIR base:    http://localhost:8080/fhir   (set FHIR_BASE_URL to this)
+services:
+  temporal:
+    image: temporalio/temporal:latest
+    command: ["server", "start-dev", "--ip", "0.0.0.0"]
+    ports:
+      - "7233:7233"
+      - "8233:8233"
+  fhir:
+    image: hapiproject/hapi:latest
+    ports:
+      - "8080:8080"
